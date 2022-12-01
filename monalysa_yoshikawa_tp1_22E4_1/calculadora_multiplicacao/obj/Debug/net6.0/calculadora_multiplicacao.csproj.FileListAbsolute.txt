@@ -1,0 +1,15 @@
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\bin\Debug\net6.0\calculadora_multiplicacao.exe
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\bin\Debug\net6.0\calculadora_multiplicacao.deps.json
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\bin\Debug\net6.0\calculadora_multiplicacao.runtimeconfig.json
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\bin\Debug\net6.0\calculadora_multiplicacao.dll
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\bin\Debug\net6.0\calculadora_multiplicacao.pdb
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\calculadora_multiplicacao.csproj.AssemblyReference.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\calculadora_multiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\calculadora_multiplicacao.AssemblyInfoInputs.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\calculadora_multiplicacao.AssemblyInfo.cs
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\calculadora_multiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\calculadora_multiplicacao.dll
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\refint\calculadora_multiplicacao.dll
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\calculadora_multiplicacao.pdb
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\calculadora_multiplicacao.genruntimeconfig.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_multiplicacao\obj\Debug\net6.0\ref\calculadora_multiplicacao.dll

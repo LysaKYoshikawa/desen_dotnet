@@ -1,0 +1,15 @@
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\bin\Debug\net6.0\calculadora_divisao.exe
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\bin\Debug\net6.0\calculadora_divisao.deps.json
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\bin\Debug\net6.0\calculadora_divisao.runtimeconfig.json
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\bin\Debug\net6.0\calculadora_divisao.dll
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\bin\Debug\net6.0\calculadora_divisao.pdb
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\calculadora_divisao.csproj.AssemblyReference.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\calculadora_divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\calculadora_divisao.AssemblyInfoInputs.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\calculadora_divisao.AssemblyInfo.cs
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\calculadora_divisao.csproj.CoreCompileInputs.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\calculadora_divisao.dll
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\refint\calculadora_divisao.dll
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\calculadora_divisao.pdb
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\calculadora_divisao.genruntimeconfig.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_divisao\obj\Debug\net6.0\ref\calculadora_divisao.dll

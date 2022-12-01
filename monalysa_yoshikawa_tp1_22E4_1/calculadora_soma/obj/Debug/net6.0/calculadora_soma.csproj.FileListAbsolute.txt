@@ -1,0 +1,15 @@
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\bin\Debug\net6.0\calculadora_soma.exe
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\bin\Debug\net6.0\calculadora_soma.deps.json
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\bin\Debug\net6.0\calculadora_soma.runtimeconfig.json
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\bin\Debug\net6.0\calculadora_soma.dll
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\bin\Debug\net6.0\calculadora_soma.pdb
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\calculadora_soma.csproj.AssemblyReference.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\calculadora_soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\calculadora_soma.AssemblyInfoInputs.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\calculadora_soma.AssemblyInfo.cs
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\calculadora_soma.csproj.CoreCompileInputs.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\calculadora_soma.dll
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\refint\calculadora_soma.dll
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\calculadora_soma.pdb
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\calculadora_soma.genruntimeconfig.cache
+C:\Users\87231\source\repos\monalysa_yoshikawa_tp1_22E4_1\calculadora_soma\obj\Debug\net6.0\ref\calculadora_soma.dll
