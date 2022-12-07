@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios_aula\\exercicios_aula.csproj": {}
+    "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios2710\\exercicios2710.csproj": {}
   },
   "projects": {
-    "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios_aula\\exercicios_aula.csproj": {
+    "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios2710\\exercicios2710.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios_aula\\exercicios_aula.csproj",
-        "projectName": "exercicios_aula",
-        "projectPath": "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios_aula\\exercicios_aula.csproj",
+        "projectUniqueName": "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios2710\\exercicios2710.csproj",
+        "projectName": "exercicios2710",
+        "projectPath": "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios2710\\exercicios2710.csproj",
         "packagesPath": "C:\\Users\\87231\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios_aula\\obj\\",
+        "outputPath": "C:\\Users\\87231\\repos\\study\\dotnet\\desen_dotnet\\exercicios2710\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\87231\\AppData\\Roaming\\NuGet\\NuGet.Config",

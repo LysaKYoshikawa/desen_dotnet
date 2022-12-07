@@ -1,0 +1,15 @@
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\exercicios2710.csproj.AssemblyReference.cache
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\exercicios2710.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\exercicios2710.AssemblyInfoInputs.cache
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\exercicios2710.AssemblyInfo.cs
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\exercicios2710.csproj.CoreCompileInputs.cache
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\bin\Debug\net6.0\exercicios2710.exe
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\bin\Debug\net6.0\exercicios2710.deps.json
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\bin\Debug\net6.0\exercicios2710.runtimeconfig.json
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\bin\Debug\net6.0\exercicios2710.dll
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\bin\Debug\net6.0\exercicios2710.pdb
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\exercicios2710.dll
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\refint\exercicios2710.dll
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\exercicios2710.pdb
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\exercicios2710.genruntimeconfig.cache
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicios2710\obj\Debug\net6.0\ref\exercicios2710.dll
