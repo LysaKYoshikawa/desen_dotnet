@@ -1,0 +1,15 @@
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\bin\Debug\net6.0\exercicio0811.exe
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\bin\Debug\net6.0\exercicio0811.deps.json
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\bin\Debug\net6.0\exercicio0811.runtimeconfig.json
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\bin\Debug\net6.0\exercicio0811.dll
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\bin\Debug\net6.0\exercicio0811.pdb
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\exercicio0811.csproj.AssemblyReference.cache
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\exercicio0811.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\exercicio0811.AssemblyInfoInputs.cache
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\exercicio0811.AssemblyInfo.cs
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\exercicio0811.csproj.CoreCompileInputs.cache
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\exercicio0811.dll
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\refint\exercicio0811.dll
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\exercicio0811.pdb
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\exercicio0811.genruntimeconfig.cache
+C:\Users\87231\repos\study\dotnet\desen_dotnet\exercicio0811\obj\Debug\net6.0\ref\exercicio0811.dll
