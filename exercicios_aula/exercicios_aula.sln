@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio0111", "..\exercic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratica", "..\pratica\pratica.csproj", "{C8F42D69-45E5-41C4-99EB-E9076D5148CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio0311", "..\exercicio0311\exercicio0311.csproj", "{DCB614AE-45E8-4D44-A924-5B2F1B95B228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio0811", "..\exercicio0811\exercicio0811.csproj", "{DD665480-5112-4DBD-AD25-D72918AFE126}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{C8F42D69-45E5-41C4-99EB-E9076D5148CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F42D69-45E5-41C4-99EB-E9076D5148CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F42D69-45E5-41C4-99EB-E9076D5148CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB614AE-45E8-4D44-A924-5B2F1B95B228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB614AE-45E8-4D44-A924-5B2F1B95B228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB614AE-45E8-4D44-A924-5B2F1B95B228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB614AE-45E8-4D44-A924-5B2F1B95B228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD665480-5112-4DBD-AD25-D72918AFE126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD665480-5112-4DBD-AD25-D72918AFE126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD665480-5112-4DBD-AD25-D72918AFE126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD665480-5112-4DBD-AD25-D72918AFE126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
