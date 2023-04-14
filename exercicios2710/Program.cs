@@ -17,11 +17,10 @@ namespace BoxingUboxingTeste
                 Console.WriteLine("Data atual minimo " + DateTime.MinValue); //tera uma data minima e valor minimo
                 Console.WriteLine("Data atual minimo " + DateTime.MaxValue); //tera o valor maximo
 
-                DateTime data;
 
                 DateTime finalAno = new DateTime(2022, 12, 31);
 
-                Console.WriteLine("Faltam :" + finalAno.Subtract(DateTime.Now) + "dias para acabar o ano!!!");
+                Console.WriteLine("Faltam :" + finalAno.Subtract(DateTime.Now) + " dias para acabar o ano!!!");
 
                 throw new Exception("Lançado uma exception"); //erro critico, lançado exception
             }
